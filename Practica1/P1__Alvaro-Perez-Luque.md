@@ -2,7 +2,7 @@
 
 ##Ejecucion de las suiguientes ordenes en los dos servidores.
 
-	*apache2* *-v*
+	**apache2** -v
 	*ps aux | grep apache*
 
 **Servidor1:**
