@@ -1,0 +1,20 @@
+Preguntas Test: Tema2
+
+1) La réplica de componentes en un sistema web mejora la disponibilidad del sistema.
+
+a) La mejora, pero no se lleva a cabo puesto que es muy caro. 
+b) Siempre se mejora, replicando algún componente.
+c) Falso, replicando componentes no se mejora, y además es caro.
+d) Siempre se mejora, pero se pierde en seguridad.
+
+Repuesta correcta: b
+
+
+2) Dentro de la Escabilidad está el tipo de escalado Ampliación Vertical que se trata de:
+
+a) Incrementar los componentes de un servidor (RAM, CPU, Disco Duro).
+b) Incrementar los componentes y además añadir máquinas.
+c) Añadir máquinas a algún subsistema (servidores web, datos, etc).
+d) Incrementar el ancho de banda.
+
+Respuesta correcta: a

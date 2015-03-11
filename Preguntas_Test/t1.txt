@@ -1,0 +1,23 @@
+Preguntas Test: Tema1
+
+1) Si nos encargan el desarrollo de un sitio web, ¿podemos elegir la opción, de instalar todos los 
+servicios en una sola máquina?
+
+a) Nunca elegiríamos esta opción, puesto que no es fiable.
+b) Si, si el presupuesto es pequeño, entonces está es la mejor opción.
+c) Si, si no hay muchos usuarios (poco tráfico), funcionaría.
+d) Si, además de ser económico, es fiable.
+
+Repuesta correcta: c
+
+
+2) En la planificación de un sitio web, debemos tener en cuenta:
+
+a) El presupuesto con el que se cuenta.
+b) La seguridad.
+c) Ancho de banda.
+d) a y b.
+
+Respuesta correcta: d
+
+ 
