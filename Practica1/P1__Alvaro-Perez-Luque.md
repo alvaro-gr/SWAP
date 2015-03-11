@@ -2,8 +2,8 @@
 
 ##Ejecucion de las suiguientes ordenes en los dos servidores.
 
-	**apache2** -v
-	*ps aux | grep apache*
+**apache2** -v
+*ps aux | grep apache*
 
 **Servidor1:**
 
@@ -30,7 +30,7 @@
 
 ==> apache2 -v
 
-	Server version: Apache/2.2.22 (Ubuntu)
+	Server version: Apache/2.2.22 **(Ubuntu)**
 	Server built:   Feb 13 2012 01:37:27
 	
 
