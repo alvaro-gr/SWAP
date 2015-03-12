@@ -3,7 +3,11 @@
 Calcular la disponibilidad del sistema completo si tenernos 3 elementos de cada subsistema, exceptuando el Data Center.
 Esta es la disponibilidad con dos elementos de cada subsistema:
 
-97.75%*99%*99.9999%*99.96%*97.75%*99.99%*99.99%*99.75% = 94.3%
+![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Trabajo_Clase/Ejercicios-Tema2/d1.png)
+
+
+Si multiplicamos: 97.75%  99%  99.9999%  99.96%  97.75%  99.99%  99.99%  99.75% = 94.3%
+
 
 Disponibilidad con 3 elementos en cada subsistema:
 
