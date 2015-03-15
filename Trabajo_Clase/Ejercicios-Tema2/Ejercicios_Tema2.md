@@ -42,11 +42,11 @@ Mejora:  99.2% - 94.3% =  4.9%
 
 Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. Como ejemplo, examina PM2   (https//github.com/Unitech/pm2) que sirve para administrar clústeres de NodeJS.
 
-==>	JBoss Eclipse IDE Milestone 5. 
+==>	JBoss Eclipse IDE Milestone 5 
 
-==>	Zope (Entorno de Desarollo).
+==>	Zope (Entorno de Desarollo)
 
-==>	El estándar J2EE.
+==>	El estándar J2EE
 
 ==>	IBM Lotus Notes
 
