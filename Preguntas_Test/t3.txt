@@ -1,0 +1,20 @@
+Preguntas Test: Tema3
+
+1) Sobre la seguridad entre servidores y redes en una granja web:
+
+a) Lo ideal es implementar una DMZ doble. 
+b) En pequeñas empresas tiene sentido no implementar DMZ.
+c) a y b son ciertas.
+d) Lo ideal es implementar una DMZ simple.
+
+Repuesta correcta: c 
+
+
+2) Que tipo de servicios se ofrecen por el front-rail. 
+
+a) Cualquier tipo (HTTP, FTP, Base de datos, terminal). 
+b) Por el front-rail, por seguridad, no se ofrecen ningun tipo de servicio. 
+c) Se ofrecen servicios como Base de datos.
+d) Servicios como HTTP y el FTP.
+
+Respuesta correcta: d  
