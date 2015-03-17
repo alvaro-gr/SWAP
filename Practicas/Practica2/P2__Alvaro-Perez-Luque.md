@@ -42,7 +42,7 @@
 ![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/tar.png)
 
 ##Instalación de la herramienta rsync
--En los das maquinas ejecuto la siguiente orden: sudo apt-get install rsync, y me devuelve:
+-En la maquina2 se ejecuta orden: sudo apt-get install rsync, y devuelve:
  Rsync ya esta en su versión mas reciente, por tanto ya esta instalado.
 
 -Ahora procedemos a clonar desde la maquina1 a la maquina2 con la siguiente orden:
