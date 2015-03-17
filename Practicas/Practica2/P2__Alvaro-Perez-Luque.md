@@ -28,6 +28,7 @@
 	 ssh-copy-id -i .ssh/idsa.pub usuario@maquina1
 
 -Ahora si hacemos ssh usuario@maquina1 nos  debe pedir la password. 
+
 ![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/Key_ssh.png)
 
 ##Funcionamiento de copia archivos por ssh
@@ -37,6 +38,7 @@
 		tar czf - prueba/ | ssh maquina1 'cat > ~/mitar.tgz'
 
 -Comprobamos que en la maquina1 está en el sitio correcto el archivo "mitar.tgz".
+
 ![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/tar.png)
 
 ##Instalación de la herramienta rsync:
@@ -46,6 +48,7 @@
 -Ahora procedemos a clonar desde la maquina1 a la maquina2 con la siguiente orden:
 
 		rsync -avz -e ssh usuario@maquina1:/var/www/ /var/www/
+		
 ![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/clonacion.png)
 
 ##Establecer una tarea cron para manterner azutalizadas   las dos maquinas el directorio 	/var/www/ cada 1 hora:
@@ -54,4 +57,5 @@
 		0 * * * * usuario  rsync -avz -e ssh usuario@maquina1:/var/www/ /var/www/
 
 -Guardamos y en la siguiente hora se ejecutara la orden.
+
 ![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/cron.png)
