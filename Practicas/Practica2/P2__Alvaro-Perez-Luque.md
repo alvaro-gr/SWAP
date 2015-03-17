@@ -28,7 +28,7 @@
 	 ssh-copy-id -i .ssh/idsa.pub usuario@maquina1
 
 -Ahora si hacemos ssh usuario@maquina1 nos  debe pedir la password. 
-
+![imagen]()
 
 ##Funcionamiento de copia archivos por ssh
 
