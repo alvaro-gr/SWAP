@@ -51,7 +51,7 @@
 		
 ![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/clonacion.png)
 
-##Establecer una tarea cron, para manterner aztualizadas las dos maquinas el directorio 	/var/www/ cada 1 hora:
+##Establecer una tarea cron para manterner aztualizadas las dos maquinas cada hora
 -En la maquina2 editamos el fichero /etc/crontab y añadimos la siguiente línea
 
 		0 * * * * usuario  rsync -avz -e ssh usuario@maquina1:/var/www/ /var/www/
