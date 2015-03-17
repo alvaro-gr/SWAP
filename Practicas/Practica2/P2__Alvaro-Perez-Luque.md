@@ -23,7 +23,7 @@
 -En el directorio /home/usuario se ha creado el directorio .ssh que
  guarda "ide_dsa" y "id_dsa.pub", para la clave privada y pública.
 
--Con la siguiente orden copiamos la clave pública a la maquina 1.
+-Con la siguiente orden copiamos la clave pública a la maquina1.
 
 	 ssh-copy-id -i .ssh/idsa.pub usuario@maquina1
 
