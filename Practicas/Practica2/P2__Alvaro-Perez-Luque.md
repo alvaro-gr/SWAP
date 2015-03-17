@@ -2,17 +2,17 @@
 
 ##Objetivos:
 
-• aprender a copiar archivos mediante ssh
+• Aprender a copiar archivos mediante ssh
 
-• clonar contenido entre máquinas
+• Clonar contenido entre máquinas
 
-• configurar el ssh para acceder a máquinas remotas sin contraseña
+• Configurar el ssh para acceder a máquinas remotas sin contraseña
 
-• establecer tareas en cron
+• Establecer tareas en cron
 
 
 
-##Configuración de ssh para acceder sin contraseña.
+##Configuración de ssh para acceder sin contraseña
 
 -Ejecutamos la siguiente orden:
 
@@ -41,7 +41,7 @@
 
 ![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/tar.png)
 
-##Instalación de la herramienta rsync:
+##Instalación de la herramienta rsync
 -En los das maquinas ejecuto la siguiente orden: sudo apt-get install rsync, y me devuelve:
  Rsync ya esta en su versión mas reciente, por tanto ya esta instalado.
 
@@ -52,7 +52,7 @@
 ![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/clonacion.png)
 
 ##Establecer una tarea cron, para manterner aztualizadas las dos maquinas el directorio 	/var/www/ cada 1 hora:
--En la maquina2 editamos el fichero /etc/crontab y añadimos la siguiente línea:
+-En la maquina2 editamos el fichero /etc/crontab y añadimos la siguiente línea
 
 		0 * * * * usuario  rsync -avz -e ssh usuario@maquina1:/var/www/ /var/www/
 
