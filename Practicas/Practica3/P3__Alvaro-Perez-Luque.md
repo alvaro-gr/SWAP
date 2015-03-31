@@ -31,6 +31,9 @@ Definimos que maquinas formaran de nuestra web y el resto de la configuración.
 
 Probamos su funcionamiento:
 
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica3/Capturas/funcionamiento1(nginx).png)
+
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica3/Capturas/funcionamiento2(nginx).png)
 
 
 
