@@ -29,7 +29,7 @@
 
 -Ahora si hacemos ssh usuario@maquina1 nos  debe pedir la password. 
 
-![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/Key_ssh.png)
+![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/Capturas/Key_ssh.png)
 
 ##Funcionamiento de copia archivos por ssh
 
@@ -39,7 +39,7 @@
 
 -Comprobamos que en la maquina1 está en el sitio correcto el archivo "mitar.tgz".
 
-![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/tar.png)
+![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/Capturas/tar.png)
 
 ##Instalación de la herramienta rsync
 -En la maquina2 se ejecuta orden: sudo apt-get install rsync, y devuelve:
@@ -49,7 +49,7 @@
 
 		rsync -avz -e ssh usuario@maquina1:/var/www/ /var/www/
 		
-![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/clonacion.png)
+![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/Capturas/clonacion.png)
 
 ##Establecer una tarea cron para manterner aztualizadas las dos maquinas cada hora
 -En la maquina2 editamos el fichero /etc/crontab y añadimos la siguiente línea
@@ -58,4 +58,4 @@
 
 -Guardamos y en la siguiente hora se ejecutara la orden.
 
-![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/cron.png)
+![imagen](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica2/Capturas/cron.png)
