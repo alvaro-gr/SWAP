@@ -46,8 +46,8 @@ Una vez instalado editamos el fichero /etc/haproxy/haproxy.cfg y añadimos nuest
 
 Por ultimo lanzamos el servicio con la siguiente orden:
 
-![image]()
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica3/Capturas/start(haproxy).png)
 
 Ya podemos comprobar mediante la orden curl o desde el navegador de la  máquina física que el balanceador está funcionando correctamente.	
 
-![image]()
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica3/Capturas/funcionamiento(haproxy).png)
