@@ -11,7 +11,7 @@ tengamos un balanceador que reparta la carga entre varios servidores finales
 
 Importamos la clave desde el repositorio software:
 
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica3/Capturas/importar_clave(nginx).png)
 	
 Después de añadir el repositorio al fichero /etc/apt/sources.list
 ya podemos instalar el paquete nginx.
