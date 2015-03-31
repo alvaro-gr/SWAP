@@ -20,13 +20,9 @@ ya podemos instalar el paquete nginx.
 
 
 
-Una vez instalado pasamos a su configuración:
+Una vez instalado, definimos que maquinas queremos añadir y el resto de la configuración.
 
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica3/Capturas/configuracion(nginx).png)
-
-Definimos que maquinas formaran de nuestra web y el resto de la configuración.
-
-
 
 
 Probamos su funcionamiento:
