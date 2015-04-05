@@ -1,0 +1,20 @@
+Preguntas Test: Tema4
+
+1) ¿De qué trata el clustering? 
+
+a) Solución basada en la seguridad de servidores web. 
+b) Ejecución paralela repartiendo el trabajo entre varias máquinas.
+c) Solución basada en balanceadores de carga.
+d) Ejecución en una sola máquina.
+
+Repuesta correcta: b 
+
+
+2) Los algoritmos de balanceo de carga:
+
+a) Son métodos para repartir la carga entre servidores.  
+b) Todos los algoritmos son independientes de las máquinas servidores. 
+c) En la elección del algoritmo se debe de tener en cuenta el contenido estático.
+d) No se sigue ningún tipo de criterio para la elección de un algoritmo.
+
+Respuesta correcta: a  
