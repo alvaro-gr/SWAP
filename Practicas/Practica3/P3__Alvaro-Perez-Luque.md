@@ -20,7 +20,7 @@ ya podemos instalar el paquete nginx.
 
 
 
-Una vez instalado, definimos que maquinas queremos añadir y el resto de la configuración.
+Una vez instalado, definimos que maquinas queremos añadir y el resto de la configuración en el fichero /etc/nginx/conf.d/default.conf.
 
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica3/Capturas/configuracion(nginx).png)
 
