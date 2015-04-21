@@ -21,15 +21,16 @@ Para esta herramienta se ha realizado varios tests con la siguiente orden:
 
 Mediciones:
 
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/ab_tablas.png)
 
 
 **MEDIA:**
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/ab_media.png)
 
 
 
 **DESVIACION ESTANDAR:**
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/ab_desviacion.png)
 
 
 
@@ -41,15 +42,15 @@ Para esta herramienta se ha realizado varios tests con la siguiente orden:
 	httperf --server maquina --port 80 --uri /pagina --rate 100 --num-conn 30000 --num-call 1 --timeout 5
 
 Mediciones:
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/hp_tablas.png)
 
 
 **MEDIA:**
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/hp_media.png)
 
 
 **DESVIACION ESTANDAR:**
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/hp_desviacion.png)
 
 
 ##SIEGE
@@ -58,15 +59,15 @@ Para esta herramienta se ha realizado varios tests con la siguiente orden:
 	siege -c300  -r1   http://maquina/f.php
 
 Mediciones:
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_tablas.png)
 
 
 **MEDIA:**
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_media.png)
 
 
 **DESVIACION ESTANDAR:**
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_media.png)
 
 
 
