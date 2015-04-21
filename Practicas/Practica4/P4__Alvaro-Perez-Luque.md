@@ -37,24 +37,24 @@ Mediciones:
 
 
 
-##HTTPERF
+##OpenWebLoad
 
 Para esta herramienta se ha realizado varios tests con la siguiente orden:
 
-	httperf --server maquina --port 80 --uri /pagina --rate 100 --num-conn 30000 --num-call 1 --timeout 5
-Lo que se está haciendo aquí es enviar 3000 peticiones solicitando esa página de 100 en 100.
+	
+
 
 Mediciones:
-![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/hp_tablas.png)
+
 
 
 **MEDIA:**
 
-![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/hp_media.png)
+
 
 
 **DESVIACION ESTANDAR:**
-![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/hp_desviacion.png)
+
 
 
 ##SIEGE
