@@ -25,6 +25,7 @@ Mediciones:
 
 
 **MEDIA:**
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/ab_media.png)
 
 
@@ -46,6 +47,7 @@ Mediciones:
 
 
 **MEDIA:**
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/hp_media.png)
 
 
