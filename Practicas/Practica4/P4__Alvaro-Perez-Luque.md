@@ -7,9 +7,9 @@ para la realización de las pruebas en un cliente para que este genere carga HTT
 
 -------------------------
 
-Para cada ejecución se hace una serie de peticiones, a un servidor solo, a un balanceador nginx y otro, haproxy. La web que deben de servir es muy ligera para las dos primeras herramientas. Para la tercera herramienta se utiliza un script php que contiene un bucle con un numero alto de iteraciones y dentro de este una serie de calculos, para que el servidor le cueste mas servir.
+Para cada ejecución se hace una serie de peticiones, a un servidor solo, a un balanceador nginx y otro, haproxy. La web que deben de servir es muy ligera para las dos primeras herramientas. Para la tercera herramienta se utiliza un script php que contiene un bucle con un número alto de iteraciones y dentro de este una serie de cálculos, para que el servidor le cueste más servir.
 
-A continuación se describen las mediciones realizdas. Previamente se han hecho 5 ejecuciones sobre las 3 situaciones.
+A continuación se describen las mediciones realizadas. Previamente se han hecho 5 ejecuciones sobre las 3 situaciones.
 
 
 
@@ -18,7 +18,7 @@ A continuación se describen las mediciones realizdas. Previamente se han hecho 
 Para esta herramienta se ha realizado varios tests con la siguiente orden:
 
 	ab -n 100000 -c 100 http://maquina/pagina
-Donde -n es el número de peticiones y que se soliciten de 100 en 100 que se indica con la opción -c.
+Donde -n es el número de peticiones, que se solicitan de 100 en 100 que se indica con la opción -c.
 
 Mediciones:
 
@@ -42,7 +42,7 @@ Mediciones:
 Para esta herramienta se ha realizado varios tests con la siguiente orden:
 
 	httperf --server maquina --port 80 --uri /pagina --rate 100 --num-conn 30000 --num-call 1 --timeout 5
-Lo que se esta haciendo aqui es enviar 3000 peticiones solicitando esa página de 100 en 100.
+Lo que se está haciendo aquí es enviar 3000 peticiones solicitando esa página de 100 en 100.
 
 Mediciones:
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/hp_tablas.png)
@@ -61,7 +61,7 @@ Mediciones:
 Para esta herramienta se ha realizado varios tests con la siguiente orden:
 
 	siege -c300  -r1   http://maquina/f.php
-Con la opción -c especificamos el numero de peticiones concurrentemente y la opción -r el número de repeticiones.
+Con la opción -c especificamos el número de peticiones concurrentemente y la opción -r el número de repeticiones.
 
 Mediciones:
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_tablas.png)
