@@ -61,7 +61,7 @@ Mediciones:
 Para esta herramienta se ha realizado varios tests con la siguiente orden:
 
 	siege -c300  -r1   http://maquina/f.php
-Con la opción -c especificamos el número de peticiones concurrentemente y la opción -r el número de repeticiones.
+Con la opción -c especificamos el número de peticiones concurrentes y la opción -r el número de repeticiones.
 
 Mediciones:
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_tablas.png)
