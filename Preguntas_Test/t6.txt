@@ -1,0 +1,20 @@
+Preguntas Test: Tema6
+
+1) Qué significa asegurar un servidor: 
+
+a) Realizar acciones para intentar proteger de cualquier situación de peligro.
+b) Solo, implementar un cortafuegos.
+c) Asegurarlo ante cualquier siniestro físico.
+d) Implementar medidas para protegerlo de ataques.
+
+Repuesta correcta: a
+
+
+2) El objetivo de un cortafuegos es:
+
+a) Filtrar el tráfico entrante. 
+b) Denegar el tráfico entrante.
+c) Filtrar el tráfico, tanto el que entra como el que sale.
+d) Filtrar el tráfico saliente.
+
+Respuesta correcta: c

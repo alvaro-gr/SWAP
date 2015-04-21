@@ -1,0 +1,20 @@
+Preguntas Test: Tema5
+
+1) La métrica conexiones por segundo, hace referencia a: 
+
+a) La cantidad de información que se transfiere en la petición.
+b) El abrir y cerrar conexiones HTTP.
+c) El número de conexiones concurrentes.
+d) Al tiempo de repuesta del servidor.
+
+Repuesta correcta: b
+
+
+2) El tipo de tráfico HTTP:
+
+a) Su métrica más importante es el rendimiento.  
+b) Su métrica menos importante es conexiones por segundo.
+c) Su métrica más importante es el total de conexiones concurrentes.
+d) Su métrica menos importante es el total de conexiones concurrentes.
+
+Respuesta correcta: d 
