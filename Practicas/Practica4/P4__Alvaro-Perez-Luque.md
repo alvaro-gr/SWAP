@@ -31,7 +31,7 @@ Mediciones:
 
 
 
-**DESVIACION ESTANDAR:**
+**DESVIACIÓN ESTANDAR:**
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/ab_desviacion.png)
 
 
@@ -58,7 +58,7 @@ Mediciones:
 
 
 
-**DESVIACION ESTANDAR:**
+**DESVIACIÓN ESTANDAR:**
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/open_desviacion.png)
 
 
@@ -76,7 +76,7 @@ Mediciones:
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_media.png)
 
 
-**DESVIACION ESTANDAR:**
+**DESVIACIÓN ESTANDAR:**
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_desviacion.png)
 
 
