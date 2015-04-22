@@ -46,15 +46,17 @@ Para esta herramienta se ha realizado varios tests con la siguiente orden:
 
 Mediciones:
 
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/open_tablas.png)
+
 
 
 **MEDIA:**
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/open_media.png)
 
 
 
 **DESVIACION ESTANDAR:**
-
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/open_desviacion.png)
 
 
 ##SIEGE
@@ -72,7 +74,7 @@ Mediciones:
 
 
 **DESVIACION ESTANDAR:**
-![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_media.png)
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_desviacion.png)
 
 
 
