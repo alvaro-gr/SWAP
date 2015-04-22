@@ -41,6 +41,9 @@ Mediciones:
 
 Para esta herramienta se ha realizado varios tests con la siguiente orden:
 
+	openload http://maquina 300
+	
+Donde 300 es el número de peticiones concurrentes.
 	
 
 
