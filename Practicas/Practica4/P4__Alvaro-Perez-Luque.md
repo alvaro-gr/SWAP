@@ -32,6 +32,7 @@ Mediciones:
 
 
 **DESVIACIÓN ESTANDAR:**
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/ab_desviacion.png)
 
 
@@ -54,11 +55,13 @@ Mediciones:
 
 
 **MEDIA:**
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/open_media.png)
 
 
 
 **DESVIACIÓN ESTANDAR:**
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/open_desviacion.png)
 
 
@@ -69,14 +72,17 @@ Para esta herramienta se ha realizado varios tests con la siguiente orden:
 Con la opción -c especificamos el número de peticiones concurrentes y la opción -r el número de repeticiones.
 
 Mediciones:
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_tablas.png)
 
 
 **MEDIA:**
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_media.png)
 
 
 **DESVIACIÓN ESTANDAR:**
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica4/Capturas/siege_desviacion.png)
 
 
