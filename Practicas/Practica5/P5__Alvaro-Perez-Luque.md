@@ -9,7 +9,7 @@ Configurar la estructura maestro-esclavo entre dos máquinas para realizar el cl
 
 
 
-#Creacion de un BD en MySQL mediante linea de ordenes
+#Creación de un BD en MySQL mediante línea de órdenes
 
 Los siguientes pasos describen como conectarse a MySQL desde la línea de órdenes y como crear un base de datos, con una tabla y un registro.
 
@@ -67,7 +67,7 @@ Una vez que hayamos desbloqueado las tablas en el servidor maestro para poder in
 
 	SHOW SLAVE STATUS\G
 
-Podemos ver si todo esta correcto o no, para ello nos fijamos en "Seconds_Behind_Master", y vemos si es distinto de null, si es así significa que todo esta correcto, de lo contrario es que hemos cometido algún error.
+Podemos ver si todo esta correcto o no, para ello nos fijamos en "Seconds_Behind_Master", y vemos si es distinto de null, si es así significa que todo está correcto, de lo contrario es que hemos cometido algún error.
 
 
 
