@@ -27,6 +27,7 @@ Creación de la BD y una tabla e inserción de un registro:
 
 	insert into socios(Nombre,DNI) values("Pepe","45454545U");
 
+![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica5/Capturas/bd.png)
 
 #Replicar una BD MySQL con mysqldump
 
