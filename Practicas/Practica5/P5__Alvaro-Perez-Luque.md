@@ -41,6 +41,7 @@ Con la siguiente orden hacemos una copia de la BD:
 	
 
 En la siguiente imagen se puede ver como se trasfiere la copia sql al servidor secundario y como se restaura:
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica5/Capturas/mysqldump_2.png)
 
 
@@ -67,6 +68,7 @@ Ahora creamos un usuario y le damos permisos para la replicación:
 ##Configuración de mysql del esclavo:
 
 Añadimos al fichero my.cnf lo mismo que en el servidor1 pero teniendo en cuenta que en este el server-id es 2. Iniciamos la conexión mysql para indicarle los datos del maestro y después iniciamos el esclavo:
+
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica5/Capturas/ms_2.png)
 
 Una vez que hayamos desbloqueado las tablas en el servidor maestro para poder insertar nuevos registros. 
@@ -74,7 +76,7 @@ Con la siguiente orden:
 
 	SHOW SLAVE STATUS\G
 
-Podemos ver si todo esta correcto o no, para ello nos fijamos en "Seconds_Behind_Master", y vemos si es distinto de null, si es así significa que todo está correcto, de lo contrario es que hemos cometido algún error.
+Podemos ver si todo esta correcto o no, para ello nos fijamos en "Seconds_Behind_Master", y vemos si es distinto de null, si es así significa que todo está correcto, de lo contrario es que hay algún error.
 
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica5/Capturas/esclavo_ok.png)
 
