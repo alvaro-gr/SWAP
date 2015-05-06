@@ -1,0 +1,20 @@
+Preguntas Test: Tema7
+
+1) Un RAID es:
+
+a) Conjunto de información para copias de seguridad. 
+b) Sistema de emergencia ante fallos de un servidor.
+c) Sistema de almacenamiento que usa múltiples discos.
+d) Conjunto de discos conectados, para ofrecer tolerancia a fallos.
+
+Repuesta correcta: c
+
+
+2) Una de las características que tiene el almacenamiento NAS es:
+
+a) Que es utilizado para copias de seguridad. 
+b) Que es un dispositivo que actúa como servidor de ficheros.
+c) Tiene una gran capacidad de almacenamiento.
+d) a y b son correctas.
+
+Respuesta correcta: d 
