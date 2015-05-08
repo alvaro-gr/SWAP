@@ -13,7 +13,7 @@ Configurar la estructura maestro-esclavo entre dos máquinas para realizar el cl
 
 Los siguientes pasos describen como conectarse a MySQL desde la línea de órdenes y como crear un base de datos, con una tabla y un registro.
 
-Conexion a MySQL:
+Conexión a MySQL:
 
 	mysql -u root -p
 
