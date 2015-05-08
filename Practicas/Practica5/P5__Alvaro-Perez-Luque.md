@@ -31,7 +31,7 @@ Creación de la BD y una tabla e inserción de un registro:
 
 #Replicar una BD MySQL con mysqldump
 
-Antes de hacer la copia de seguridad en la maquina1 creamos la BD en la maquina2, y bloqueamos las tablas de la BD en la maquina1 para que no se pueda acceder a ellas.
+Antes de hacer la copia de seguridad en la máquina1 creamos la BD en la máquina2, y bloqueamos las tablas de la BD en la máquina1 para que no se pueda acceder a ellas.
 
 Con la siguiente orden hacemos una copia de la BD:
 
