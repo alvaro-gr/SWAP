@@ -1,4 +1,4 @@
-﻿#Práctica 6
+﻿#Practica 6
 
 ##Objetivos:
 
@@ -9,7 +9,7 @@ Hacer pruebas de retirar y añadir un disco y comprobar que el RAID sigue funcio
 
 
 
-#Configuración del RAID por sofware
+#Configuración del RAID por software
 
 Instalamos el software necesario para gestionar el RAID:
 
@@ -43,7 +43,7 @@ En el fichero /etc/fstab añadimos lo siguiente para que cuando se reinicie el s
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica6/Capturas/mount.png)
 
 
-Al reinciar el sistema, este ha renombrado a la unidad montada md0 como md127. Con la siguiente orden podemos ver el estado del RAID:
+Al reiniciar el sistema, este ha renombrado a la unidad montada md0 como md127. Con la siguiente orden podemos ver el estado del RAID:
 
 	mdadm --detail /dev/md127
 
