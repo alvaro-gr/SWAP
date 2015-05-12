@@ -1,4 +1,4 @@
-﻿#Practica 5
+﻿#Práctica 5
 
 ##Objetivos:
 Copiar archivos de copia de seguridad mediante ssh.
