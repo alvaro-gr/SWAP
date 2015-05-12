@@ -1,4 +1,4 @@
-﻿#Practica 1
+﻿#Práctica 1
 
 ##Ejecucion de las suiguientes ordenes en los dos servidores.
 
