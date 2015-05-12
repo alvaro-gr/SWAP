@@ -50,7 +50,7 @@ Al reinciar el sistema, este ha renombrado a la unidad montada md0 como md127. C
 ![image](https://github.com/alvaro-gr/SWAP2015/blob/master/Practicas/Practica6/Capturas/estado_raid.png)
 
 
-#Simulación de un fallo de un disco del RAID
+#Simulación de un fallo en un disco del RAID
 
 Simulamos el fallo del disco /dev/sdb  y lo retiramos:
 
