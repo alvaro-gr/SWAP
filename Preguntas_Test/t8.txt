@@ -1,0 +1,20 @@
+Preguntas Test: Tema8
+
+1) Lo más importante de un servidor web es:
+
+a) Capacidad Procesamiento y la memoria RAM. 
+b) Almacenamiento y la memoria RAM.
+c) Memoria RAM.
+d) Capacidad Procesamiento.
+
+Repuesta correcta: c
+
+
+2) Para determinar las necesidades de un servidor debemos tener en cuenta:
+
+a) El presupuesto del que disponemos.  
+b) El diseño debe permitir el escalado del sistema.
+c) La seguridad.
+d) El presupuesto y la seguridad.
+
+Respuesta correcta: b  
