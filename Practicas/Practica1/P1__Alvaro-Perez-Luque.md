@@ -1,5 +1,5 @@
 ﻿#Práctica 1
-![ejercicio4](https://www.dropbox.com/s/v6kp6shilid64qv/Ejercicio4.png?dl=0)
+
 ##Ejecucion de las suiguientes ordenes en los dos servidores.
 
 *apache2 -v*
